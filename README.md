@@ -1,4 +1,4 @@
-# dominando-testes-software
+# Dominando-testes-software
 Curso Dominando Testes de Software em desenvolvedor.io
 
 # xUnit
